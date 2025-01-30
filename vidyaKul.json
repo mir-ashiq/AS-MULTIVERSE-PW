@@ -1,6 +1,6 @@
 {
-  "status": "false",
-  "version": "2.21.7",
+  "status": "true",
+  "version": "2.21.66",
   "tg": "https://t.me/+AxnAQowcaSY4M2I9",
   "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
   "ig": "https://www.instagram.com/as_multiverse.official",
@@ -14,5 +14,20 @@
   "announcementLink": "https://t.me/addlist/4cGfocm84rk4ZDNl",
   "tag": "@ASMultiverseAppZ",
   "downloadType": "1",
-  "dataMadX": []
+  "dataMadX": [
+    {
+      "name": "Class 12th Sangharsh Batch 2024-25",
+      "slug": "class-12th-sangharsh-2024-25jEULDsLGq9",
+      "image": "https://d2horkaojb0g6v.cloudfront.net/singleliveclass/new-single-liveclass/91824/time_2024-10-23_10:11:07.jpg",
+      "liveTitle": "",
+      "liveLink": ""
+    },
+    {
+      "name": "कक्षा 12वीं हुंकार Batch 2025 Relaunched",
+      "slug": "12-batch-2025-relaunchedfygXzmBf2E",
+      "image": "https://dkuddpry619qg.cloudfront.net/singleliveclass/new-single-liveclass/42721/time_2024-05-31_16:54:13.jpg",
+      "liveTitle": "",
+      "liveLink": ""
+    }
+  ]
 }
