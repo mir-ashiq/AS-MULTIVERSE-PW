@@ -1,1 +1,58 @@
-{}
+{
+  "status": "true",
+  "pwData": {},
+  "kgsData": {},
+  "cwData": {
+    "cwStatus": "true",
+    "cwVersion": "9.21.6",
+    "updateMessage": "Join Ker lo Telegram Gyzzzz for More Apps",
+    "updateLink": "https://t.me/+25wuuzQ6EB9jYzY1",
+    "downloadType": "1",
+    "apiHost": "elearn.crwilladmin.com",
+    "apiVersion": "v7",
+    "appVer": "98",
+    "downloadApi": "https://drm-api.vercel.app"
+  },
+  "appxData": {},
+  "ytData": {},
+  "vidyakulData": {},
+  "educationBabaData": {},
+  "nextToppersData": {},
+  "classPlusData": {},
+  "adda247Data": {},
+  "slider": [
+    {
+      "thumbnail": "link",
+      "link": "link"
+    },
+    {
+      "thumbnail": "link",
+      "link": "link"
+    },
+    {
+      "thumbnail": "link",
+      "link": "link"
+    },
+    {
+      "thumbnail": "link",
+      "link": "link"
+    },
+    {
+      "thumbnail": "link",
+      "link": "link"
+    }
+  ],
+  "tg": "https://t.me/+25wuuzQ6EB9jYzY1",
+  "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
+  "ig": "https://www.instagram.com/as_multiverse.official",
+  "wp": "https://whatsapp.com/channel/0029VaMatol8fews0k9JA31c",
+  "dc": "https://www.instagram.com/as_multiverse.official",
+  "tgdl": "https://t.me/+RAdqqVBZM000Y2Q1",
+  "donate": "https://t.me/MadXAbhi_bot",
+  "allApp": "https://abhiguru143.github.io/AS-MULTIVERSE-PW/",
+  "announcement": "Join Ker lo Telegram Gyzzzz for More Apps",
+  "announcementImage": "Join Ker lo Telegram Gyzzzz for More Apps",
+  "announcementLink": "https://t.me/+25wuuzQ6EB9jYzY1",
+  "tag": "@ASMultiverseAppZ",
+  "command": "/yl "
+}
