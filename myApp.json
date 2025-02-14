@@ -20,28 +20,18 @@
   "nextToppersData": {},
   "classPlusData": {},
   "adda247Data": {},
-  "slider": [
-    {
-      "thumbnail": "link",
-      "link": "link"
-    },
-    {
-      "thumbnail": "link",
-      "link": "link"
-    },
-    {
-      "thumbnail": "link",
-      "link": "link"
-    },
-    {
-      "thumbnail": "link",
-      "link": "link"
-    },
-    {
-      "thumbnail": "link",
-      "link": "link"
-    }
-  ],
+  "imageSlider": {
+    "thum1": "link",
+    "link1": "link",
+    "thum2": "link",
+    "link2": "link",
+    "thum3": "link",
+    "link3": "link",
+    "thum4": "link",
+    "link4": "link",
+    "thum5": "link",
+    "link5": "link"
+  },
   "tg": "https://t.me/+25wuuzQ6EB9jYzY1",
   "yt": "https://youtube.com/@AS-Multiverse?feature=shared",
   "ig": "https://www.instagram.com/as_multiverse.official",
@@ -51,7 +41,7 @@
   "donate": "https://t.me/MadXAbhi_bot",
   "allApp": "https://abhiguru143.github.io/AS-MULTIVERSE-PW/",
   "announcement": "Join Ker lo Telegram Gyzzzz for More Apps",
-  "announcementImage": "Join Ker lo Telegram Gyzzzz for More Apps",
+  "announcementImage": "img link ",
   "announcementLink": "https://t.me/+25wuuzQ6EB9jYzY1",
   "tag": "@ASMultiverseAppZ",
   "command": "/yl "
