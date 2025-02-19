@@ -11,6 +11,7 @@
     "apiHost": "elearn.crwilladmin.com",
     "apiVersion": "v7",
     "appVer": "98",
+    "BCOV-POLICY": "BCpkADawqM1VmXspFMod94-pT7xDCvmBEYt8U7f0mRB6XnG5huPE7I9qjhDW0qpx3LRyTD9WX7W6JvUGtgKN-qf1pJoZO-QXBMIykDivtAOgkJOmN-kyv4m_F0thrJ45z95hqWON0nsKBwvd",
     "downloadApi": "https://drm-api.vercel.app"
   },
   "appxData": {},
