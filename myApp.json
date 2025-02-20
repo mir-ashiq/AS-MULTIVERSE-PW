@@ -51,9 +51,12 @@
   "tgdl": "https://t.me/+RAdqqVBZM000Y2Q1",
   "donate": "https://t.me/MadXAbhi_bot",
   "allApp": "https://abhiguru143.github.io/AS-MULTIVERSE-PW/",
-  "announcement": "Join Ker lo Telegram Gyzzzz for More Apps",
-  "announcementImage": "img link ",
+  "announcementTitle": "Join Now...!!",
+  "announcementDescription": "Join Ker lo Telegram Gyzzzz for More Apps",
+  "announcementImage": "https://telegram.org/img/t_logo.png",
+  "announcementButton": "Join Now",
   "announcementLink": "https://t.me/+25wuuzQ6EB9jYzY1",
+  "announcementVisible": "true",
   "tag": "@ASMultiverseAppZ",
   "command": "/yl "
 }
